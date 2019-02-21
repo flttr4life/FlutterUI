@@ -90,4 +90,4 @@ code：https://github.com/yumi0629/FlutterUI/tree/master/lib/sharedelement
 
 教程：[Flutter：Slivers大家族，让滑动视图的组合变得很简单！](https://www.jianshu.com/p/690ddade5d94)
 
-code：https://github.com/yumi0629/FlutterUI/tree/master/lib/sliver
+code：https://github.com/yumi0629/FlutterUI/tree/master/lib/sliver 
